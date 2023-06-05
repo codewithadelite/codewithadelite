@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Pavel and I’m a software developer. I work mostly with Python/Django and Javascript/React to create web applicationses.
+
+💻 Tech stack: Python, Django, DRF, MySQL, Javascript, React 
+💪 Things I like: Web development, Automation
