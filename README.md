@@ -17,4 +17,11 @@ My name is Adelite and I’m a software developer. I work mostly with Python/Dja
 <a href="https://drive.google.com/file/d/1Qgkd1v9ctL_H0gC_kYY2egwZ0fLkk-UM/view"><b>IHURIRO</b></a> - 
 I've developed this project from the ground up. It is an all in one platform to connect people losts and found important documents, Buying & Sellig secondhand products.
 </td></tr>
+
+<tr><td>
+<img src="domains.jpg" align="right">
+<a href="https://github.com/codewithadelite/domains"><b>DOMAINS TOOL</b></a> - 
+I've developed this tool which allows to manage domain names.
+</td></tr>
+
 </table>
