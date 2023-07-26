@@ -14,7 +14,7 @@ My name is Adelite and I’m a software developer. I work mostly with Python/Dja
 
 <tr><td>
 <img src="ihuriro.jpg" align="right">
-<a href="https://drive.google.com/file/d/1Qgkd1v9ctL_H0gC_kYY2egwZ0fLkk-UM/view"><b>IHURIRO</b></a> - 
+<a href="https://www.loom.com/share/e653dfc90ab242e981a8670cd7a561d8?sid=eeba1de0-2324-418a-9bdb-7a233fd095b1"><b>IHURIRO</b></a> - 
 I've developed this project from the ground up. It is an all in one platform to connect people losts and found important documents, Buying & Sellig secondhand products.
 </td></tr>
 
