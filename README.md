@@ -7,7 +7,7 @@ My name is Adelite and I’m a software developer. I work mostly with Python/Dja
 
 💪 **Things I like**: Web development, Automation.
 
-### My Projects
+### Projects
 
 
 <table border="0">
