@@ -27,7 +27,7 @@ I've developed this tool which allows to manage domain names.
 <tr><td>
 <img src="unit.jpg" align="right">
 <a href="https://unit.bestprague.cz/"><b>UNIT</b></a> - 
-Our team won the first place out of 5 teams on <a href="https://unit.bestprague.cz/"><b>UNIT</b></a> Challenge. The project was Inventory management web application.
+Our team won the first place out of 5 teams on <a href="https://unit.bestprague.cz/"><b>UNIT</b></a> Challenge. The project was smart Inventory web application for <a href="https://abra.eu/"><b>ABRA</b></a>.
 </td></tr>
 
 <tr><td>
